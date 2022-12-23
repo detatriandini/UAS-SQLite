@@ -3,8 +3,8 @@
 UAS Manajemen Basis Data - Kelompok 2 - IF B
 Anggota Kelompok 2
 1. Deta Triandini (1207050025)
-2. Farras Rangga W (12070500
-3. Fatih Fauzan K (12070500
+2. Farras Rangga W (1207050035)
+3. Fatih Fauzan K (1207050037)
 
 Penjelasan Aplikasi : Aplikasi CRUD SQLite dengan PHP
 
