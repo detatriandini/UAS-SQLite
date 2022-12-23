@@ -42,3 +42,16 @@ Penjelasan Aplikasi : Aplikasi CRUD SQLite dengan PHP
 1. Klik start apache dan mysql di xampp
 2. Buka browser masukkan domain localhost:http://localhost/namaFolderAplikasi/ (disini kami membuat folder dengan nama UAS-SQLite) 
 Maka ketikan domain http://localhost/UAS-SQLite/
+
+# Tampilan Aplikasi
+1. Tampilan awal
+![Screenshot (137)](https://user-images.githubusercontent.com/114047429/209361504-cbec73a9-f870-4648-bd38-4bcb21cf4a09.png)
+2. Tampilan setelah diinsert
+![Screenshot (138)](https://user-images.githubusercontent.com/114047429/209361554-325f04e8-dbfd-4651-b203-9da100cb47cb.png)
+3. Tampilan form update
+![Screenshot (139)](https://user-images.githubusercontent.com/114047429/209361698-ddab0e4c-ed4a-4c37-98f5-2b3ce0bdc878.png)
+4. Tampilan setelah diupdate
+![Screenshot (140)](https://user-images.githubusercontent.com/114047429/209361797-3dc6ace6-66cc-4bdc-b4ad-4d7223de2f6e.png)
+5. Tampilan setelah dihapus
+![Screenshot (141)](https://user-images.githubusercontent.com/114047429/209361831-906c523e-2342-44f0-8d81-0017376f0334.png)
+
