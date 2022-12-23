@@ -38,3 +38,7 @@ Penjelasan Aplikasi : Aplikasi CRUD SQLite dengan PHP
 7. Buat file untuk menghapus data dengan nama delete.php
 ![image](https://user-images.githubusercontent.com/83359019/209285662-05ba6d0e-bcdf-416e-8788-2e5a021918d2.png)
 
+# Cara Menjalankan Aplikasi
+1. Klik start apache dan mysql di xampp
+2. Buka browser masukkan domain localhost:http://localhost/namaFolderAplikasi/ (disini kami membuat folder dengan nama UAS-SQLite) 
+Maka ketikan domain http://localhost/UAS-SQLite/
