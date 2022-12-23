@@ -31,7 +31,7 @@ Penjelasan Aplikasi : Aplikasi CRUD SQLite dengan PHP
 3. Kemudian buat file baru sebagai pusat dari semua fungsi yang dijalankan pada aplikasi dengan nama index.php. Source Code terlampir.
 4. Buat file untuk menambahkan data dengan nama insert.php 
 ![image](https://user-images.githubusercontent.com/83359019/209284873-e5c6e731-0c01-4483-890d-30c5125182ed.png)
-5. Buat file untuk mengupdate data dengan nama update.php
+5. Buat file untuk melihat data dengan nama update.php
 ![image](https://user-images.githubusercontent.com/83359019/209285513-548db69a-5eac-4546-837d-3213f4807660.png)
 6. Buat file untuk mengedit data dengan nama update-2.php
 ![image](https://user-images.githubusercontent.com/83359019/209285901-9280f721-b489-408b-a373-35fcfade1d92.png)
