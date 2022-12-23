@@ -18,4 +18,14 @@ Penjelasan Aplikasi : Aplikasi CRUD SQLite dengan PHP
 ![image](https://user-images.githubusercontent.com/83359019/209279586-944c41d1-e447-4c5d-a65e-4dec8ebed01e.png)
 
 # Cara Setup SQLite
-# a. Enable SQLite3
+# a. Enable SQLite3 (Mengaktifkan SQLite Service di web server)
+1. Buka folder XAMPP pada direktori, Cari folder php, lalu cari file php.ini (C:\xampp\php\php.ini)
+2. Buka file php.ini pada kode editor, kemudian enable atau aktifkan SQLite3 dengan menghapus semicolon (;) pada awal baris. (ctrl + f sqlite3)
+![image](https://user-images.githubusercontent.com/83359019/209282718-e2ffd2a2-4ed1-4dfc-b9db-dbf934dd7fb1.png)
+3. Save dan restart web server.
+
+# b. Membuat Database SQLite dan Connection php dengan SQLite
+1. Aplikasi akan dijalankan dilocal maka buat folder pada direktori yang sama pada XAMPP\htdocs. 
+2. Buat file baru dengan nama connecdb.php. Seperti berikut:
+![image](https://user-images.githubusercontent.com/83359019/209283258-fdcea606-e127-42a9-b3e0-d2c722b38137.png)
+3. Kemudian buat file baru sebagai pusat dari semua fungsi yang dijalankan pada aplikasi dengan nama index.php. Seperti berikut:
